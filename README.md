@@ -41,7 +41,7 @@
 </div>
 
 
-![Snake animation](https://github.com/sLucas-r-Nogueira/Lucas-r-Nogueira/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Lucas-r-Nogueira/Lucas-r-Nogueira/blob/output/github-contribution-grid-snake.svg)
 
           
           
