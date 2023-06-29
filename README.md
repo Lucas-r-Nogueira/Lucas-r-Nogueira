@@ -32,11 +32,10 @@
 ##
 
 <h3>Estou Estudando</h3>
-<div>
-  <i class="devicon-react-original colored"></i>
-</div>        
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  
 ##
+
 <div>
 <a href="https://github.com/Lucas-r-Nogueira">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-r-Nogueira&layout=compact&theme=dracula">
