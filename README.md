@@ -1,5 +1,5 @@
 ### Olá👋
-<p>Eu sou o Lucas Nogueira, tenho 17 anos e estou estudando Desenvolvimento de Sistemas na escola Técnica de Tatuí- ETEC Sales Gomes</p>
+<p>Olá, meu nome é Lucas Ramalho Nogueira. Sou um Técnico em Desenvolvimento de Sistemas formado pela ETEC Sales Gomes. Atualmente, atuo como profissional freelancer, dedicando-me ao desenvolvimento de projetos.</p>
 
 
 <h3>Tenho conhecimentos em:</h3>
