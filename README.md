@@ -40,7 +40,7 @@ Olá! Meu nome é **Lucas Ramalho Nogueira**.
 🎓 Sou Técnico em Desenvolvimento de Sistemas pela *ETEC Sales Gomes*  
 💻 Atualmente, curso **Engenharia da Computação** na **UNISO – Sorocaba**
 
-Atuo como **desenvolvedor freelancer**, criando soluções sob medida para diferentes necessidades.  
+Atuo como **desenvolvedor freelancer**, criando soluções para diferentes necessidades.  
 Tenho especial interesse por **desenvolvimento front-end** e pelas áreas de **UI/UX**, onde posso unir lógica e design para criar interfaces intuitivas e agradáveis.  
 
 ---
