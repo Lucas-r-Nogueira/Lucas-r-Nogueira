@@ -22,6 +22,7 @@
   ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+  ![Vite](https://img.shields.io/v
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -37,7 +38,7 @@
 ### 👋 Sobre mim
 
 Olá! Meu nome é **Lucas Ramalho Nogueira**.  
-🎓 Sou Técnico em Desenvolvimento de Sistemas pela *ETEC Sales Gomes*  
+🎓 Sou Técnico em Desenvolvimento de Sistemas formado pela *ETEC Sales Gomes*  
 💻 Atualmente, curso **Engenharia da Computação** na **UNISO – Sorocaba**
 
 Atuo como **desenvolvedor freelancer**, criando soluções para diferentes necessidades.  
@@ -58,8 +59,6 @@ Tenho especial interesse por **desenvolvimento front-end** e pelas áreas de **U
   <a href="https://instagram.com/lucas_r_nogueira" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
   <a href= "mailto:contato@ramalhol148@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
   <a href="https://ww.linkedin.com/in/lucas-nogueira-435a8b247">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-r-Nogueira&hide_progress=true&theme=github_dark)
 
 ---
 
