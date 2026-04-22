@@ -58,7 +58,7 @@ Tenho especial interesse por **desenvolvimento front-end** e pelas áreas de **U
 ### 📫 Contato
   <a href="https://instagram.com/lucas_r_nogueira" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
   <a href= "mailto:contato@ramalhol148@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-  <a href="https://ww.linkedin.com/in/lucas-nogueira-435a8b247">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
+  <a href="https://www.linkedin.com/in/lucas-r-nogueira1/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
 
 ---
 
